@@ -1,0 +1,57 @@
+html,body{
+    scroll-behavior: smooth;
+}
+h1,h2 {
+    color: red;
+    text-align: center;
+}
+h3 {
+    color: red;
+}
+body {
+    background-color: black;
+    color: white;
+    width: 800px;
+    margin:0 auto;
+    font-size: 20px;
+    padding: 100px 0;
+}
+ul {
+    width: 760px;
+}
+a{
+    border: 3px solid red;
+    color: white;
+}
+.paragraphOne{
+    font-size: 28px;
+    height: 256px;
+}
+.lifeMJ{
+    height: 422px;
+    float: left;
+    padding: 10px;
+}
+.little_icon{
+    height: 20px; 
+    width: 30px;
+}
+.paragraphOneImg{
+    width: 300px; 
+    height: 230px; 
+    padding: 10px;
+    float: right;
+}
+.paragraphEarlyLife{
+    height: 650px;
+}
+.paragraphProfessionalCareer{
+    height: 507px;
+}
+.honors{
+    height: 350px;
+    padding: 10px;
+}
+.pages{
+    padding: 40px 0;
+}
